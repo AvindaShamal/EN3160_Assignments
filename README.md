@@ -1,6 +1,6 @@
 # EN3160 Assignment 1 - Intensity Transformations and Neighborhood Filtering
 
-### Course: EN3160 - Image Processing Machine Vision
+### Course: EN3160 - Image Processing and Machine Vision
 ### Instructor: Ranga Rodrigo  
 ### Date: September 9, 2024
 
