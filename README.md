@@ -2,7 +2,7 @@
 
 ### Course: EN3160 - Image Processing and Machine Vision
 ### Instructor: Dr. Ranga Rodrigo  
-### Date: September 9, 2024
+### Date: September 26, 2024
 
 ## Assignment Overview
 
